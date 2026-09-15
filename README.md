@@ -1,3 +1,3 @@
-#h2 meu projeto git
+## meu projeto git
 exemplo de repositorio git para desenvolvimento web 
 
